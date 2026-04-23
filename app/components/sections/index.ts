@@ -1,0 +1,11 @@
+export { default as HeroSection } from "./HeroSection";
+export { default as QuickNav } from "./QuickNav";
+export { default as XSeriesSection } from "./XSeriesSection";
+export { default as VSeriesSection } from "./VSeriesSection";
+export { default as YSeriesSection } from "./YSeriesSection";
+export { default as TSeriesSection } from "./TSeriesSection";
+export { default as IQooSection } from "./IQooSection";
+export { default as CTASection } from "./CTASection";
+export { default as PriceTable } from "./PriceTable";
+export { default as ScrollCover } from "./ScrollCover";
+export { default as AnimatedSection } from "./AnimatedSection";
