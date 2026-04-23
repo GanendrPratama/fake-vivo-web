@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/fake-vivo-web",
 };
 
 export default nextConfig;
